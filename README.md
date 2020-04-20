@@ -3,7 +3,6 @@
 A new Flutter application.
 
 ![1](https://user-images.githubusercontent.com/48725946/79761587-db1b3280-834b-11ea-8a36-1e90215e0980.PNG)
-
 ![2](https://user-images.githubusercontent.com/48725946/79761592-dce4f600-834b-11ea-9586-a04de422481f.PNG)
 
 
